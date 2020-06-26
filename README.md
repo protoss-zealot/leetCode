@@ -1,8 +1,8 @@
 
--------
 
 # LeetCode刷题记录
 
---------
-
-1. TwoSum
+No | Title | Time
+------|---|----
+|1 |TwoSum | 2020.6.20|
+|2 | Add two numbers| 2020.6.21|
