@@ -10,3 +10,4 @@ No | Title | Time
 |7 | Reverse Integer | 2020.6.26|
 |3 | Longest non-repeated substring | 2020.6.27|
 |146 | LRU cache | 2020.6.27|
+|104 | Depth Of Binary Tree | 2020.6.28|
